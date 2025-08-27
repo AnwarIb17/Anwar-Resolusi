@@ -1,2 +1,2 @@
 # Anwar-Resolusi
-Repository untuk menyimpan rencarana Anwar kedepannya
+Repository untuk menyimpan rencana Anwar kedepannya
